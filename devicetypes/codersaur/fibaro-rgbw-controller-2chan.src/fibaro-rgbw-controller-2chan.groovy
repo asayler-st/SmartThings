@@ -28,7 +28,7 @@
  *
  **/
 metadata {
-    definition (name: "Fibaro RGBW Controller - 2 Channel", namespace: "codersaur", author: "David Lomas") {
+    definition (name: "Fibaro RGBW Controller", namespace: "codersaur", author: "David Lomas") {
         capability "Actuator"
         capability "Switch"
         capability "Switch Level"
